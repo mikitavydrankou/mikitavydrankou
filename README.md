@@ -10,16 +10,15 @@
 
 ###
 
-
-<h4 align="center">Creating bugs since: October 2023 </h4>
-
-###
-
-<h4 align="right">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
+<h2 align="center">Creating bugs since: October 2023 </h4>
 
 ###
 
-<h5 align="left">Fun fact: dumb</h5>
+<h3 align="right">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
+
+###
+
+<h4 align="left">Fun fact: dumb</h5>
 
 ---
 
