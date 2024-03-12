@@ -3,7 +3,7 @@
 #### I am junior Frontend Web Developer
 
 
-<h3 align="center">Student of Computer Sciences in University of Warmia and Mazury in Olsztyn.</h3>
+<h3>Student of Computer Sciences in University of Warmia and Mazury in Olsztyn.</h3>
 
 - ⚡ Fun fact **dumb af**
 
