@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mikita Vydrankou</h1>
-<h3 align="center">Frontend developer from Poland and student of Computer Sciences in University of Warmia and Mazury in Olsztyn.</h3>
+### Hi there 👋, my name is Mikita
+
+#### I am junior Frontend Web Developer
+
+
+<h3 align="center">Student of Computer Sciences in University of Warmia and Mazury in Olsztyn.</h3>
 
 - ⚡ Fun fact **dumb af**
 
