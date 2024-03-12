@@ -6,8 +6,9 @@
 
 ###
 
-<h3 align="left">My name is Mikita, i'm a junoir Frontend Web Developer from Poland</h3>
+<h3 align="left">Junoir Frontend Web Developer from Poland</h3>
 
+###
 ###
 
 <h4 align="left">Creating bugs since: October 2023<br><br>I'm currently learning Computer Science in University of Warmia and Mazury in Olsztyn</h4>
