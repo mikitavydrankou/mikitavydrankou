@@ -20,6 +20,16 @@
 
 <h4 align="left">Fun fact: dumb</h5>
 
+
+
+###
+
+<img src="https://raw.githubusercontent.com/mikitavydrankou/mikitavydrankou/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 ---
 
 <h2 align="left">Contact me:</h2>
