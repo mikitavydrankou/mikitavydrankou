@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Languages:<br><br>- Polish<br>- English<br>- Russian</h3>
+<h4 align="left">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
 
 ###
 
