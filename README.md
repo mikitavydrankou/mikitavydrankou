@@ -2,15 +2,15 @@
 
 ---
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me: </h2>
 
 ###
 
-<h3 align="left">Junoir Frontend Web Developer from Poland</h3>
+<h2 align="left">Junoir Frontend Web Developer from Poland</h3>
 
 ###
 
-<h2 align="center">Creating bugs since: October 2023 </h4>
+<h3 align="center">Creating bugs since: October 2023 </h4>
 
 ###
 
