@@ -2,27 +2,27 @@
 
 ---
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
+
+###
+
+<h3 align="left">My name is Mikita, i'm a junoir Frontend Web Developer from Poland</h3>
+
+###
+
+<h4 align="left">Creating bugs since: October 2023<br><br>I'm currently learning Computer Science in University of Warmia and Mazury in Olsztyn</h4>
+
+###
+
+<h4 align="left">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
+
+###
+
+<h5 align="left">Fun fact: dumb</h5>
 
 ---
 
-<h2 align="left">My name is Mikita, i'm a junoir Frontend Web Developer from Poland</h2>
-
-###
-
-<h3 align="left">Creating bugs since: October 2023<br><br>I'm currently learning Computer Science in University of Warmia and Mazury in Olsztyn</h3>
-
-###
-
-<h3 align="left">Languages:<br><br>- Polish<br>- English<br>- Russian</h3>
-
-###
-
-<h4 align="left">Fun fact: dumb</h4>
-
----
-
-<h1 align="left">Contact me:</h1>
+<h2 align="left">Contact me:</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ---
 
-<h1 align="left">Main skills:</h1>
+<h2 align="left">Main skills:</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ---
 
-<h1 align="left">Additional skills:</h1>
+<h2 align="left">Additional skills:</h2>
 
 ###
 
