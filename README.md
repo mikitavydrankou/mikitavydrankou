@@ -22,12 +22,6 @@
 
 
 
-###
-
-<img src="https://raw.githubusercontent.com/mikitavydrankou/mikitavydrankou/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 ---
