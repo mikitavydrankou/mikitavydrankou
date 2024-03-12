@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Junoir Frontend Web Developer from Poland</h3>
+<h2 align="left">Junior Frontend Web Developer from Poland</h3>
 
 ###
 
