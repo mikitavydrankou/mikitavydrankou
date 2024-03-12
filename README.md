@@ -11,11 +11,11 @@
 ###
 
 
-<h4 align="left">Creating bugs since: October 2023<br><br>I'm currently learning Computer Science in University of Warmia and Mazury in Olsztyn</h4>
+<h4 align="center">Creating bugs since: October 2023 </h4>
 
 ###
 
-<h4 align="left">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
+<h4 align="right">Languages:<br><br>- Polish<br>- English<br>- Russian</h4>
 
 ###
 
