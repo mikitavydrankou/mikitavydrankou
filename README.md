@@ -1,5 +1,5 @@
 # About Me:
-PHP Developer with 0,5 years of experience in web-development, committed to delivering high-quality results and continuously learning new technologies. Seeking an opportunity to leverage my technical skills and contribute to the success of a team-oriented organization.
+Web Developer with 1 year of experience in web-development, committed to delivering high-quality results and continuously learning new technologies. Seeking an opportunity to leverage my technical skills and contribute to the success of a team-oriented organization.
 
 
 ## Socials:
