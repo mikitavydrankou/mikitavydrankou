@@ -1,5 +1,5 @@
 # About Me:
-Committed to delivering high-quality results and continuously learning new technologies. Seeking an opportunity to leverage my technical skills and contribute to the success of a team-oriented organization.
+19 y/o student from Poland, love PHP/Javascript. Ccommitted to delivering high-quality results and continuously learning new technologies. Seeking an opportunity to leverage my technical skills and contribute to the success of a team-oriented organization.
 
 
 ## Socials:
